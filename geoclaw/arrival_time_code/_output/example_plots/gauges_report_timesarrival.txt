@@ -1,0 +1,1877 @@
+
+GAUGE REPORT
+
+EVENT: Cascadia Extended L1 @ MHW
+ 
+Gauge no: 1 was in a gauge array
+(long,lat) = (-122.5386636,47.6269394)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -1.812073
+ Flow depth when the gauge was turned on: 1.812073
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -1.812073
+ Initial depth h0 at the gauge before quake was: 1.812073
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -1.812073
+ Final bathymetry, B[-1], at the gauge at end of job run was: -1.8120726
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 1.812073
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 2.102595
+ Maximum value of h, the flow depth, at the gauge was: 3.914668
+ Maximum value of dh, the change in water depth, at the gauge was: 2.102595
+ Minimum value of zeta at the gauge was: -1.54604
+ Minimum value of h, the water depth, at the gauge was: 0.2660329
+ Maximum value of eta, height above MHW, at the gauge was: 2.102595
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 2.102595
+ Maximum speed at the gauge was: 0.5857270575624743
+ Maximum momentum at the gauge was: 1.040137749757906
+ Maximum momentum flux at the gauge was: 0.3488950145357277
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 143.2
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):   0.2
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  93.9
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 144.5
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.5
+ 
+ Maximum value of zeta occurred at time (in minutes): 292.442
+ Maximum value of h occurred at time (in minutes): 292.442
+ Minimum value of zeta occurred at time (in minutes): 372.1345
+ Minimum value of h occurred at time (in minutes): 372.136
+ 
+Gauge no: 2 was in a gauge array
+(long,lat) = (-122.5347751,47.6236179)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -3.144892
+ Flow depth when the gauge was turned on: 3.144892
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -3.144892
+ Initial depth h0 at the gauge before quake was: 3.144892
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -3.144892
+ Final bathymetry, B[-1], at the gauge at end of job run was: -3.1448922
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 3.144892
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.965335
+ Maximum value of h, the flow depth, at the gauge was: 5.110227
+ Maximum value of dh, the change in water depth, at the gauge was: 1.965335
+ Minimum value of zeta at the gauge was: -1.3909190000000002
+ Minimum value of h, the water depth, at the gauge was: 1.753972
+ Maximum value of eta, height above MHW, at the gauge was: 1.965335
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.965335
+ Maximum speed at the gauge was: 0.8723135236102715
+ Maximum momentum at the gauge was: 3.267270524556031
+ Maximum momentum flux at the gauge was: 2.8289005865519345
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 143.0
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  55.9
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  93.7
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 144.5
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.6
+ 
+ Maximum value of zeta occurred at time (in minutes): 293.27166666666665
+ Maximum value of h occurred at time (in minutes): 293.27166666666665
+ Minimum value of zeta occurred at time (in minutes): 369.50466666666665
+ Minimum value of h occurred at time (in minutes): 369.50466666666665
+ 
+Gauge no: 3 was in a gauge array
+(long,lat) = (-122.5298304,47.6235448)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -4.518716
+ Flow depth when the gauge was turned on: 4.518716
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -4.518716
+ Initial depth h0 at the gauge before quake was: 4.518716
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -4.518716
+ Final bathymetry, B[-1], at the gauge at end of job run was: -4.5187162999999995
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 4.518716
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.8639520000000003
+ Maximum value of h, the flow depth, at the gauge was: 6.382668
+ Maximum value of dh, the change in water depth, at the gauge was: 1.8639520000000003
+ Minimum value of zeta at the gauge was: -1.3331649999999997
+ Minimum value of h, the water depth, at the gauge was: 3.185552
+ Maximum value of eta, height above MHW, at the gauge was: 1.863952
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.8639519999999994
+ Maximum speed at the gauge was: 1.1775549973723891
+ Maximum momentum at the gauge was: 6.318824301521447
+ Maximum momentum flux at the gauge was: 7.401225044038086
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 142.8
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  55.6
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  93.4
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 144.4
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.7
+ 
+ Maximum value of zeta occurred at time (in minutes): 292.49083333333334
+ Maximum value of h occurred at time (in minutes): 292.4898333333333
+ Minimum value of zeta occurred at time (in minutes): 248.58433333333332
+ Minimum value of h occurred at time (in minutes): 248.58133333333333
+ 
+Gauge no: 4 was in a gauge array
+(long,lat) = (-122.5257788,47.6193188)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -4.630643
+ Flow depth when the gauge was turned on: 4.630643
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -4.630643
+ Initial depth h0 at the gauge before quake was: 4.630643
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -4.630643
+ Final bathymetry, B[-1], at the gauge at end of job run was: -4.630642399999999
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 4.630643
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.601922
+ Maximum value of h, the flow depth, at the gauge was: 6.232565
+ Maximum value of dh, the change in water depth, at the gauge was: 1.601922
+ Minimum value of zeta at the gauge was: -1.2959620000000003
+ Minimum value of h, the water depth, at the gauge was: 3.33468
+ Maximum value of eta, height above MHW, at the gauge was: 1.601922
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.601922
+ Maximum speed at the gauge was: 2.3550267567544854
+ Maximum momentum at the gauge was: 11.005867713889034
+ Maximum momentum flux at the gauge was: 25.91411236444303
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 142.2
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.9
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  93.0
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 144.1
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.8
+ 
+ Maximum value of zeta occurred at time (in minutes): 292.29200000000003
+ Maximum value of h occurred at time (in minutes): 292.293
+ Minimum value of zeta occurred at time (in minutes): 241.48616666666666
+ Minimum value of h occurred at time (in minutes): 241.48766666666668
+ 
+Gauge no: 5 was in a gauge array
+(long,lat) = (-122.5193796,47.6195408)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -12.12603
+ Flow depth when the gauge was turned on: 12.12603
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -12.12603
+ Initial depth h0 at the gauge before quake was: 12.12603
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -12.12603
+ Final bathymetry, B[-1], at the gauge at end of job run was: -12.126026699999999
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 12.12603
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.4388550000000002
+ Maximum value of h, the flow depth, at the gauge was: 13.56488
+ Maximum value of dh, the change in water depth, at the gauge was: 1.4388550000000002
+ Minimum value of zeta at the gauge was: -1.313345
+ Minimum value of h, the water depth, at the gauge was: 10.81268
+ Maximum value of eta, height above MHW, at the gauge was: 1.438855
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.4388500000000004
+ Maximum speed at the gauge was: 1.9604921561022868
+ Maximum momentum at the gauge was: 23.760147836225684
+ Maximum momentum flux at the gauge was: 46.58147489972763
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.4
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.4
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.8
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.5
+ 
+ Maximum value of zeta occurred at time (in minutes): 290.86233333333337
+ Maximum value of h occurred at time (in minutes): 290.8598333333333
+ Minimum value of zeta occurred at time (in minutes): 240.59949999999998
+ Minimum value of h occurred at time (in minutes): 240.597
+ 
+Gauge no: 6 was in a gauge array
+(long,lat) = (-122.5126762,47.6191303)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -14.29459
+ Flow depth when the gauge was turned on: 14.29459
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -14.29459
+ Initial depth h0 at the gauge before quake was: 14.29459
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -14.29459
+ Final bathymetry, B[-1], at the gauge at end of job run was: -14.2945913
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 14.29459
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.3525539999999996
+ Maximum value of h, the flow depth, at the gauge was: 15.64714
+ Maximum value of dh, the change in water depth, at the gauge was: 1.3525539999999996
+ Minimum value of zeta at the gauge was: -1.298209
+ Minimum value of h, the water depth, at the gauge was: 12.99638
+ Maximum value of eta, height above MHW, at the gauge was: 1.352554
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.3525500000000008
+ Maximum speed at the gauge was: 0.43569357812677856
+ Maximum momentum at the gauge was: 6.6125170776487225
+ Maximum momentum flux at the gauge was: 2.880170492107066
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.2
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.2
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.7
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.6
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.339
+ Maximum value of h occurred at time (in minutes): 291.33349999999996
+ Minimum value of zeta occurred at time (in minutes): 241.35066666666668
+ Minimum value of h occurred at time (in minutes): 241.337
+ 
+Gauge no: 7 was in a gauge array
+(long,lat) = (-122.5074046,47.6200883)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -14.81722
+ Flow depth when the gauge was turned on: 14.81722
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -14.81722
+ Initial depth h0 at the gauge before quake was: 14.81722
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -14.81722
+ Final bathymetry, B[-1], at the gauge at end of job run was: -14.817221100000001
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 14.81722
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.2869279999999996
+ Maximum value of h, the flow depth, at the gauge was: 16.10415
+ Maximum value of dh, the change in water depth, at the gauge was: 1.2869279999999996
+ Minimum value of zeta at the gauge was: -1.2930729999999997
+ Minimum value of h, the water depth, at the gauge was: 13.52415
+ Maximum value of eta, height above MHW, at the gauge was: 1.286928
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.28693
+ Maximum speed at the gauge was: 0.4161274834997779
+ Maximum momentum at the gauge was: 6.373861566551003
+ Maximum momentum flux at the gauge was: 2.5896414067456583
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.1
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.0
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.7
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.1
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.8
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.54249999999996
+ Maximum value of h occurred at time (in minutes): 291.53683333333333
+ Minimum value of zeta occurred at time (in minutes): 241.57116666666667
+ Minimum value of h occurred at time (in minutes): 241.553
+ 
+Gauge no: 8 was in a gauge array
+(long,lat) = (-122.5039281,47.6217451)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 1.0004728333333335
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -17.51101
+ Flow depth when the gauge was turned on: 17.51101
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -17.51101
+ Initial depth h0 at the gauge before quake was: 17.51101
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -17.51101
+ Final bathymetry, B[-1], at the gauge at end of job run was: -17.5110071
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 17.51101
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.2430340000000015
+ Maximum value of h, the flow depth, at the gauge was: 18.75404
+ Maximum value of dh, the change in water depth, at the gauge was: 1.2430340000000015
+ Minimum value of zeta at the gauge was: -1.290935000000001
+ Minimum value of h, the water depth, at the gauge was: 16.22007
+ Maximum value of eta, height above MHW, at the gauge was: 1.243034
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.243030000000001
+ Maximum speed at the gauge was: 0.47414801098733583
+ Maximum momentum at the gauge was: 8.703911396149051
+ Maximum momentum flux at the gauge was: 4.126379613809469
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.0
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.0
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.6
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.1
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 148.0
+ 
+ Maximum value of zeta occurred at time (in minutes): 290.20183333333335
+ Maximum value of h occurred at time (in minutes): 290.1958333333333
+ Minimum value of zeta occurred at time (in minutes): 242.70283333333333
+ Minimum value of h occurred at time (in minutes): 242.68733333333333
+ 
+Gauge no: 9 was in a gauge array
+(long,lat) = (-122.500005,47.6207328)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -20.6296
+ Flow depth when the gauge was turned on: 20.6296
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -20.6296
+ Initial depth h0 at the gauge before quake was: 20.6296
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -20.6296
+ Final bathymetry, B[-1], at the gauge at end of job run was: -20.6296082
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 20.6296
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.195561999999999
+ Maximum value of h, the flow depth, at the gauge was: 21.82517
+ Maximum value of dh, the change in water depth, at the gauge was: 1.195561999999999
+ Minimum value of zeta at the gauge was: -1.289473000000001
+ Minimum value of h, the water depth, at the gauge was: 19.34013
+ Maximum value of eta, height above MHW, at the gauge was: 1.195562
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.19557
+ Maximum speed at the gauge was: 0.686545710360637
+ Maximum momentum at the gauge was: 14.759024767416037
+ Maximum momentum flux at the gauge was: 10.132323492110602
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.0
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  53.8
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.5
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.1
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 148.2
+ 
+ Maximum value of zeta occurred at time (in minutes): 290.01
+ Maximum value of h occurred at time (in minutes): 290.00849999999997
+ Minimum value of zeta occurred at time (in minutes): 242.82266666666666
+ Minimum value of h occurred at time (in minutes): 242.81816666666666
+ 
+Gauge no: 10 was in a gauge array
+(long,lat) = (-122.4971937,47.6195639)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -21.66876
+ Flow depth when the gauge was turned on: 21.66876
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -21.66876
+ Initial depth h0 at the gauge before quake was: 21.66876
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -21.66876
+ Final bathymetry, B[-1], at the gauge at end of job run was: -21.6687632
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 21.66876
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.1357549999999996
+ Maximum value of h, the flow depth, at the gauge was: 22.80452
+ Maximum value of dh, the change in water depth, at the gauge was: 1.1357549999999996
+ Minimum value of zeta at the gauge was: -1.282751000000001
+ Minimum value of h, the water depth, at the gauge was: 20.38601
+ Maximum value of eta, height above MHW, at the gauge was: 1.135755
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.1357600000000012
+ Maximum speed at the gauge was: 0.9655981540855177
+ Maximum momentum at the gauge was: 21.708311921165127
+ Maximum momentum flux at the gauge was: 20.959830288952773
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.0
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  53.7
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.4
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 148.6
+ 
+ Maximum value of zeta occurred at time (in minutes): 289.73066666666665
+ Maximum value of h occurred at time (in minutes): 289.7271666666667
+ Minimum value of zeta occurred at time (in minutes): 242.7885
+ Minimum value of h occurred at time (in minutes): 242.78383333333335
+ 
+Gauge no: 11 was in a gauge array
+(long,lat) = (-122.5013354,47.6181532)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -3.130875
+ Flow depth when the gauge was turned on: 3.130875
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -3.130875
+ Initial depth h0 at the gauge before quake was: 3.130875
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -3.130875
+ Final bathymetry, B[-1], at the gauge at end of job run was: -3.1308754000000003
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 3.130875
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.189126
+ Maximum value of h, the flow depth, at the gauge was: 4.320001
+ Maximum value of dh, the change in water depth, at the gauge was: 1.189126
+ Minimum value of zeta at the gauge was: -1.298674
+ Minimum value of h, the water depth, at the gauge was: 1.832201
+ Maximum value of eta, height above MHW, at the gauge was: 1.189126
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.1891260000000003
+ Maximum speed at the gauge was: 1.784556413259774
+ Maximum momentum at the gauge was: 7.57757110717049
+ Maximum momentum flux at the gauge was: 13.521393589499636
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 142.1
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  53.9
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.5
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 144.3
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 148.3
+ 
+ Maximum value of zeta occurred at time (in minutes): 292.47633333333334
+ Maximum value of h occurred at time (in minutes): 292.47633333333334
+ Minimum value of zeta occurred at time (in minutes): 242.8725
+ Minimum value of h occurred at time (in minutes): 242.8725
+ 
+Gauge no: 12 was in a gauge array
+(long,lat) = (-122.4958303,47.6216316)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -1.472572
+ Flow depth when the gauge was turned on: 1.472572
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -1.472572
+ Initial depth h0 at the gauge before quake was: 1.472572
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -1.472572
+ Final bathymetry, B[-1], at the gauge at end of job run was: -1.4725717
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 1.472572
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.171607
+ Maximum value of h, the flow depth, at the gauge was: 2.644178
+ Maximum value of dh, the change in water depth, at the gauge was: 1.171607
+ Minimum value of zeta at the gauge was: -1.287029
+ Minimum value of h, the water depth, at the gauge was: 0.1855427
+ Maximum value of eta, height above MHW, at the gauge was: 1.171607
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.1716060000000001
+ Maximum speed at the gauge was: 1.1438309790840067
+ Maximum momentum at the gauge was: 2.815322369338901
+ Maximum momentum flux at the gauge was: 3.22006602163587
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.0
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  53.6
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.4
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 148.4
+ 
+ Maximum value of zeta occurred at time (in minutes): 289.8906666666666
+ Maximum value of h occurred at time (in minutes): 289.88916666666665
+ Minimum value of zeta occurred at time (in minutes): 243.082
+ Minimum value of h occurred at time (in minutes): 243.082
+ 
+Gauge no: 13 was in a gauge array
+(long,lat) = (-122.5041835,47.6260679)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -0.3983707
+ Flow depth when the gauge was turned on: 0.3983707
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -0.3983707
+ Initial depth h0 at the gauge before quake was: 0.3983707
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -0.3983707
+ Final bathymetry, B[-1], at the gauge at end of job run was: -0.3983707999999999
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 0.3983707
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.25789
+ Maximum value of h, the flow depth, at the gauge was: 1.656261
+ Maximum value of dh, the change in water depth, at the gauge was: 1.25789
+ Minimum value of zeta at the gauge was: -0.3973736
+ Minimum value of h, the water depth, at the gauge was: 0.000997095
+ Maximum value of eta, height above MHW, at the gauge was: 1.25789
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.2578903
+ Maximum speed at the gauge was: 0.22332294683458098
+ Maximum momentum at the gauge was: 0.2618267867581543
+ Maximum momentum flux at the gauge was: 0.04556834934400011
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.0
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  53.9
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.6
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.0
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.9
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.1678333333333
+ Maximum value of h occurred at time (in minutes): 291.1693333333333
+ Minimum value of zeta occurred at time (in minutes): 256.72866666666664
+ Minimum value of h occurred at time (in minutes): 256.72866666666664
+ 
+Gauge no: 14 was in a gauge array
+(long,lat) = (-122.5098302,47.6223055)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -6.305077
+ Flow depth when the gauge was turned on: 6.305077
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -6.305077
+ Initial depth h0 at the gauge before quake was: 6.305077
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -6.305077
+ Final bathymetry, B[-1], at the gauge at end of job run was: -6.3050764
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 6.305077
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.293552
+ Maximum value of h, the flow depth, at the gauge was: 7.598628
+ Maximum value of dh, the change in water depth, at the gauge was: 1.293552
+ Minimum value of zeta at the gauge was: -1.294581
+ Minimum value of h, the water depth, at the gauge was: 5.010495
+ Maximum value of eta, height above MHW, at the gauge was: 1.293552
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.293551
+ Maximum speed at the gauge was: 0.40889035972747956
+ Maximum momentum at the gauge was: 2.909652497230726
+ Maximum momentum flux at the gauge was: 1.1802463456981558
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.1
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.1
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.7
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.1
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.8
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.175
+ Maximum value of h occurred at time (in minutes): 291.1735
+ Minimum value of zeta occurred at time (in minutes): 241.73033333333333
+ Minimum value of h occurred at time (in minutes): 241.73433333333332
+ 
+Gauge no: 15 was in a gauge array
+(long,lat) = (-122.5103546,47.6228278)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -1.609465
+ Flow depth when the gauge was turned on: 1.609465
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -1.609465
+ Initial depth h0 at the gauge before quake was: 1.609465
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -1.609465
+ Final bathymetry, B[-1], at the gauge at end of job run was: -1.6094647
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 1.609465
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.296353
+ Maximum value of h, the flow depth, at the gauge was: 2.905818
+ Maximum value of dh, the change in water depth, at the gauge was: 1.296353
+ Minimum value of zeta at the gauge was: -1.295499
+ Minimum value of h, the water depth, at the gauge was: 0.3139665
+ Maximum value of eta, height above MHW, at the gauge was: 1.296353
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.296353
+ Maximum speed at the gauge was: 0.5585424015476257
+ Maximum momentum at the gauge was: 1.423689725492967
+ Maximum momentum flux at the gauge was: 0.7889262725442328
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.1
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.1
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.6
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.8
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.23583333333335
+ Maximum value of h occurred at time (in minutes): 291.2348333333333
+ Minimum value of zeta occurred at time (in minutes): 241.79316666666668
+ Minimum value of h occurred at time (in minutes): 241.79416666666665
+ 
+Gauge no: 16 was in a gauge array
+(long,lat) = (-122.5108047,47.6226046)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -2.060093
+ Flow depth when the gauge was turned on: 2.060093
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -2.060093
+ Initial depth h0 at the gauge before quake was: 2.060093
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -2.060093
+ Final bathymetry, B[-1], at the gauge at end of job run was: -2.0600929999999997
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 2.060093
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.3036399999999997
+ Maximum value of h, the flow depth, at the gauge was: 3.363734
+ Maximum value of dh, the change in water depth, at the gauge was: 1.3036399999999997
+ Minimum value of zeta at the gauge was: -1.2958640000000001
+ Minimum value of h, the water depth, at the gauge was: 0.7642294
+ Maximum value of eta, height above MHW, at the gauge was: 1.30364
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.3036409999999998
+ Maximum speed at the gauge was: 0.5282111411687018
+ Maximum momentum at the gauge was: 1.4845457804640079
+ Maximum momentum flux at the gauge was: 0.7825419682506917
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.2
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.1
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.7
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.8
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.2056666666667
+ Maximum value of h occurred at time (in minutes): 291.2076666666666
+ Minimum value of zeta occurred at time (in minutes): 241.71516666666668
+ Minimum value of h occurred at time (in minutes): 241.71766666666664
+ 
+Gauge no: 17 was in a gauge array
+(long,lat) = (-122.5140212,47.6211288)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -1.493342
+ Flow depth when the gauge was turned on: 1.493342
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -1.493342
+ Initial depth h0 at the gauge before quake was: 1.493342
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -1.493342
+ Final bathymetry, B[-1], at the gauge at end of job run was: -1.4933428
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 1.493342
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.363951
+ Maximum value of h, the flow depth, at the gauge was: 2.857294
+ Maximum value of dh, the change in water depth, at the gauge was: 1.363951
+ Minimum value of zeta at the gauge was: -1.097458
+ Minimum value of h, the water depth, at the gauge was: 0.395884
+ Maximum value of eta, height above MHW, at the gauge was: 1.363951
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.363952
+ Maximum speed at the gauge was: 1.0775984091027104
+ Maximum momentum at the gauge was: 2.8201843293211546
+ Maximum momentum flux at the gauge was: 3.03898622200591
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.3
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.2
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.7
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.3
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.7
+ 
+ Maximum value of zeta occurred at time (in minutes): 290.6971666666667
+ Maximum value of h occurred at time (in minutes): 290.6976666666667
+ Minimum value of zeta occurred at time (in minutes): 241.2866666666667
+ Minimum value of h occurred at time (in minutes): 241.28883333333334
+ 
+Gauge no: 18 was in a gauge array
+(long,lat) = (-122.5153542,47.6233859)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -1.32608
+ Flow depth when the gauge was turned on: 1.32608
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -1.32608
+ Initial depth h0 at the gauge before quake was: 1.32608
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -1.32608
+ Final bathymetry, B[-1], at the gauge at end of job run was: -1.3260795
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 1.32608
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.446915
+ Maximum value of h, the flow depth, at the gauge was: 2.772995
+ Maximum value of dh, the change in water depth, at the gauge was: 1.446915
+ Minimum value of zeta at the gauge was: -1.247462
+ Minimum value of h, the water depth, at the gauge was: 0.07861762
+ Maximum value of eta, height above MHW, at the gauge was: 1.446915
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.446915
+ Maximum speed at the gauge was: 0.6248884331061566
+ Maximum momentum at the gauge was: 1.1221400829955464
+ Maximum momentum flux at the gauge was: 0.6534344048970283
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.3
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.2
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.9
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.5
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.3235
+ Maximum value of h occurred at time (in minutes): 291.32399999999996
+ Minimum value of zeta occurred at time (in minutes): 240.84516666666664
+ Minimum value of h occurred at time (in minutes): 240.85033333333334
+ 
+Gauge no: 19 was in a gauge array
+(long,lat) = (-122.5151386,47.6226021)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -2.253254
+ Flow depth when the gauge was turned on: 2.253254
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -2.253254
+ Initial depth h0 at the gauge before quake was: 2.253254
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -2.253254
+ Final bathymetry, B[-1], at the gauge at end of job run was: -2.2532541999999998
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 2.253254
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.4311979999999997
+ Maximum value of h, the flow depth, at the gauge was: 3.684452
+ Maximum value of dh, the change in water depth, at the gauge was: 1.4311979999999997
+ Minimum value of zeta at the gauge was: -1.3074980000000003
+ Minimum value of h, the water depth, at the gauge was: 0.945756
+ Maximum value of eta, height above MHW, at the gauge was: 1.431198
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.4311979999999997
+ Maximum speed at the gauge was: 0.314356013328181
+ Maximum momentum at the gauge was: 0.8809892466009901
+ Maximum momentum flux at the gauge was: 0.26828642266174063
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.3
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.2
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.9
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.5
+ 
+ Maximum value of zeta occurred at time (in minutes): 290.77666666666664
+ Maximum value of h occurred at time (in minutes): 290.77566666666667
+ Minimum value of zeta occurred at time (in minutes): 240.578
+ Minimum value of h occurred at time (in minutes): 240.5825
+ 
+Gauge no: 20 was in a gauge array
+(long,lat) = (-122.5176936,47.6219176)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -1.687726
+ Flow depth when the gauge was turned on: 1.687726
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -1.687726
+ Initial depth h0 at the gauge before quake was: 1.687726
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -1.687726
+ Final bathymetry, B[-1], at the gauge at end of job run was: -1.6877262
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 1.687726
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.428532
+ Maximum value of h, the flow depth, at the gauge was: 3.116258
+ Maximum value of dh, the change in water depth, at the gauge was: 1.428532
+ Minimum value of zeta at the gauge was: -1.302057
+ Minimum value of h, the water depth, at the gauge was: 0.3856698
+ Maximum value of eta, height above MHW, at the gauge was: 1.428532
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.4285320000000001
+ Maximum speed at the gauge was: 0.5519514082280459
+ Maximum momentum at the gauge was: 1.4321388640143438
+ Maximum momentum flux at the gauge was: 0.7881623780727687
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.3
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.3
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.8
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.5
+ 
+ Maximum value of zeta occurred at time (in minutes): 290.961
+ Maximum value of h occurred at time (in minutes): 290.9605
+ Minimum value of zeta occurred at time (in minutes): 240.28699999999998
+ Minimum value of h occurred at time (in minutes): 240.28699999999998
+ 
+Gauge no: 21 was in a gauge array
+(long,lat) = (-122.5211719,47.6211716)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -7.356769
+ Flow depth when the gauge was turned on: 7.356769
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -7.356769
+ Initial depth h0 at the gauge before quake was: 7.356769
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -7.356769
+ Final bathymetry, B[-1], at the gauge at end of job run was: -7.356768799999999
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 7.356769
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.4621839999999997
+ Maximum value of h, the flow depth, at the gauge was: 8.818953
+ Maximum value of dh, the change in water depth, at the gauge was: 1.4621839999999997
+ Minimum value of zeta at the gauge was: -1.307753
+ Minimum value of h, the water depth, at the gauge was: 6.049016
+ Maximum value of eta, height above MHW, at the gauge was: 1.462184
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.4621840000000006
+ Maximum speed at the gauge was: 0.9597893130763476
+ Maximum momentum at the gauge was: 6.986393621690163
+ Maximum momentum flux at the gauge was: 6.705457568849795
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.4
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.4
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.9
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.4
+ 
+ Maximum value of zeta occurred at time (in minutes): 290.7505
+ Maximum value of h occurred at time (in minutes): 290.75100000000003
+ Minimum value of zeta occurred at time (in minutes): 240.592
+ Minimum value of h occurred at time (in minutes): 240.592
+ 
+Gauge no: 22 was in a gauge array
+(long,lat) = (-122.5214312,47.62183)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -2.020053
+ Flow depth when the gauge was turned on: 2.020053
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -2.020053
+ Initial depth h0 at the gauge before quake was: 2.020053
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -2.020053
+ Final bathymetry, B[-1], at the gauge at end of job run was: -2.0200522
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 2.020053
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.466186
+ Maximum value of h, the flow depth, at the gauge was: 3.486239
+ Maximum value of dh, the change in water depth, at the gauge was: 1.466186
+ Minimum value of zeta at the gauge was: -1.3081750000000003
+ Minimum value of h, the water depth, at the gauge was: 0.7118776
+ Maximum value of eta, height above MHW, at the gauge was: 1.466186
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.466186
+ Maximum speed at the gauge was: 0.43464310013800755
+ Maximum momentum at the gauge was: 1.1384608911619933
+ Maximum momentum flux at the gauge was: 0.4086767541531481
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.4
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.4
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.9
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.4
+ 
+ Maximum value of zeta occurred at time (in minutes): 290.7178333333333
+ Maximum value of h occurred at time (in minutes): 290.7183333333333
+ Minimum value of zeta occurred at time (in minutes): 240.56783333333334
+ Minimum value of h occurred at time (in minutes): 240.57083333333333
+ 
+Gauge no: 23 was in a gauge array
+(long,lat) = (-122.5237021,47.6206623)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -1.795696
+ Flow depth when the gauge was turned on: 1.795696
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -1.795696
+ Initial depth h0 at the gauge before quake was: 1.795696
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -1.795696
+ Final bathymetry, B[-1], at the gauge at end of job run was: -1.7956954
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 1.795696
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.481327
+ Maximum value of h, the flow depth, at the gauge was: 3.277023
+ Maximum value of dh, the change in water depth, at the gauge was: 1.481327
+ Minimum value of zeta at the gauge was: -1.304684
+ Minimum value of h, the water depth, at the gauge was: 0.4910114
+ Maximum value of eta, height above MHW, at the gauge was: 1.481327
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.4813269999999998
+ Maximum speed at the gauge was: 1.064714513430234
+ Maximum momentum at the gauge was: 2.5693366505905764
+ Maximum momentum flux at the gauge was: 2.7352852596292223
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.5
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.5
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.9
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.4
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.5
+ 
+ Maximum value of zeta occurred at time (in minutes): 292.31716666666665
+ Maximum value of h occurred at time (in minutes): 292.31716666666665
+ Minimum value of zeta occurred at time (in minutes): 240.55116666666666
+ Minimum value of h occurred at time (in minutes): 240.55483333333333
+ 
+Gauge no: 24 was in a gauge array
+(long,lat) = (-122.5108386,47.6167265)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -4.519233
+ Flow depth when the gauge was turned on: 4.519233
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -4.519233
+ Initial depth h0 at the gauge before quake was: 4.519233
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -4.519233
+ Final bathymetry, B[-1], at the gauge at end of job run was: -4.5192332
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 4.519233
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.339715
+ Maximum value of h, the flow depth, at the gauge was: 5.858948
+ Maximum value of dh, the change in water depth, at the gauge was: 1.339715
+ Minimum value of zeta at the gauge was: -1.297132
+ Minimum value of h, the water depth, at the gauge was: 3.222101
+ Maximum value of eta, height above MHW, at the gauge was: 1.339715
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.339715
+ Maximum speed at the gauge was: 0.34511828663667327
+ Maximum momentum at the gauge was: 1.8681988049139628
+ Maximum momentum flux at the gauge was: 0.6430212128134294
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.2
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.2
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.7
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.7
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.32
+ Maximum value of h occurred at time (in minutes): 291.2846666666667
+ Minimum value of zeta occurred at time (in minutes): 241.58283333333333
+ Minimum value of h occurred at time (in minutes): 241.58383333333333
+ 
+Gauge no: 25 was in a gauge array
+(long,lat) = (-122.5107418,47.6157705)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -2.039194
+ Flow depth when the gauge was turned on: 2.039194
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -2.039194
+ Initial depth h0 at the gauge before quake was: 2.039194
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -2.039194
+ Final bathymetry, B[-1], at the gauge at end of job run was: -2.0391939
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 2.039194
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.3429470000000001
+ Maximum value of h, the flow depth, at the gauge was: 3.38214
+ Maximum value of dh, the change in water depth, at the gauge was: 1.3429470000000001
+ Minimum value of zeta at the gauge was: -1.2987210000000002
+ Minimum value of h, the water depth, at the gauge was: 0.7404726
+ Maximum value of eta, height above MHW, at the gauge was: 1.342947
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.342946
+ Maximum speed at the gauge was: 0.11399827575459065
+ Maximum momentum at the gauge was: 0.33070099257852653
+ Maximum momentum flux at the gauge was: 0.03546645240000923
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.2
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.1
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.7
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.1
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.6
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.325
+ Maximum value of h occurred at time (in minutes): 291.32399999999996
+ Minimum value of zeta occurred at time (in minutes): 241.95333333333335
+ Minimum value of h occurred at time (in minutes): 241.95383333333334
+ 
+Gauge no: 26 was in a gauge array
+(long,lat) = (-122.5127642,47.6168901)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -6.886945
+ Flow depth when the gauge was turned on: 6.886945
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -6.886945
+ Initial depth h0 at the gauge before quake was: 6.886945
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -6.886945
+ Final bathymetry, B[-1], at the gauge at end of job run was: -6.8869451
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 6.886945
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.3623159999999999
+ Maximum value of h, the flow depth, at the gauge was: 8.249262
+ Maximum value of dh, the change in water depth, at the gauge was: 1.3623159999999999
+ Minimum value of zeta at the gauge was: -1.2979529999999997
+ Minimum value of h, the water depth, at the gauge was: 5.588993
+ Maximum value of eta, height above MHW, at the gauge was: 1.362316
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.362317
+ Maximum speed at the gauge was: 0.4119030323447621
+ Maximum momentum at the gauge was: 2.7263516341774334
+ Maximum momentum flux at the gauge was: 1.1229253988523868
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.2
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.2
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.8
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.6
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.15683333333334
+ Maximum value of h occurred at time (in minutes): 291.15833333333336
+ Minimum value of zeta occurred at time (in minutes): 240.94183333333334
+ Minimum value of h occurred at time (in minutes): 240.93733333333333
+ 
+Gauge no: 27 was in a gauge array
+(long,lat) = (-122.5120236,47.6171336)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -6.393579
+ Flow depth when the gauge was turned on: 6.393579
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -6.393579
+ Initial depth h0 at the gauge before quake was: 6.393579
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -6.393579
+ Final bathymetry, B[-1], at the gauge at end of job run was: -6.3935784
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 6.393579
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.3529850000000003
+ Maximum value of h, the flow depth, at the gauge was: 7.746564
+ Maximum value of dh, the change in water depth, at the gauge was: 1.3529850000000003
+ Minimum value of zeta at the gauge was: -1.2974670000000001
+ Minimum value of h, the water depth, at the gauge was: 5.096112
+ Maximum value of eta, height above MHW, at the gauge was: 1.352985
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.3529850000000003
+ Maximum speed at the gauge was: 0.4423012809790688
+ Maximum momentum at the gauge was: 2.7720539489958056
+ Maximum momentum flux at the gauge was: 1.1665380852100855
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.2
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.2
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.7
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.6
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.22183333333334
+ Maximum value of h occurred at time (in minutes): 291.2223333333333
+ Minimum value of zeta occurred at time (in minutes): 241.53650000000002
+ Minimum value of h occurred at time (in minutes): 241.53549999999998
+ 
+Gauge no: 28 was in a gauge array
+(long,lat) = (-122.5132347,47.6163068)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -2.123678
+ Flow depth when the gauge was turned on: 2.123678
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -2.123678
+ Initial depth h0 at the gauge before quake was: 2.123678
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -2.123678
+ Final bathymetry, B[-1], at the gauge at end of job run was: -2.1236779
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 2.123678
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.3678850000000002
+ Maximum value of h, the flow depth, at the gauge was: 3.491563
+ Maximum value of dh, the change in water depth, at the gauge was: 1.3678850000000002
+ Minimum value of zeta at the gauge was: -1.298569
+ Minimum value of h, the water depth, at the gauge was: 0.8251094
+ Maximum value of eta, height above MHW, at the gauge was: 1.367885
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.3678850000000002
+ Maximum speed at the gauge was: 0.39911766432058965
+ Maximum momentum at the gauge was: 1.2558220962063895
+ Maximum momentum flux at the gauge was: 0.49991773293773195
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.2
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.2
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.8
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.6
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.2388333333334
+ Maximum value of h occurred at time (in minutes): 291.23833333333334
+ Minimum value of zeta occurred at time (in minutes): 240.98716666666667
+ Minimum value of h occurred at time (in minutes): 240.98966666666666
+ 
+Gauge no: 29 was in a gauge array
+(long,lat) = (-122.5138773,47.6168746)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -5.864739
+ Flow depth when the gauge was turned on: 5.864739
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -5.864739
+ Initial depth h0 at the gauge before quake was: 5.864739
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -5.864739
+ Final bathymetry, B[-1], at the gauge at end of job run was: -5.8647384
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 5.864739
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.3739400000000002
+ Maximum value of h, the flow depth, at the gauge was: 7.238679
+ Maximum value of dh, the change in water depth, at the gauge was: 1.3739400000000002
+ Minimum value of zeta at the gauge was: -1.298838
+ Minimum value of h, the water depth, at the gauge was: 4.565901
+ Maximum value of eta, height above MHW, at the gauge was: 1.37394
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.3739400000000002
+ Maximum speed at the gauge was: 0.5181988068507113
+ Maximum momentum at the gauge was: 2.9753899406605533
+ Maximum momentum flux at the gauge was: 1.5411468691904744
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.2
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.2
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.8
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.6
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.0733333333334
+ Maximum value of h occurred at time (in minutes): 291.0733333333334
+ Minimum value of zeta occurred at time (in minutes): 240.68316666666666
+ Minimum value of h occurred at time (in minutes): 240.68266666666665
+ 
+Gauge no: 30 was in a gauge array
+(long,lat) = (-122.5190526,47.6217714)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -4.926029
+ Flow depth when the gauge was turned on: 4.926029
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -4.926029
+ Initial depth h0 at the gauge before quake was: 4.926029
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -4.926029
+ Final bathymetry, B[-1], at the gauge at end of job run was: -4.9260288
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 4.926029
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.4483579999999998
+ Maximum value of h, the flow depth, at the gauge was: 6.374387
+ Maximum value of dh, the change in water depth, at the gauge was: 1.4483579999999998
+ Minimum value of zeta at the gauge was: -1.306998
+ Minimum value of h, the water depth, at the gauge was: 3.619031
+ Maximum value of eta, height above MHW, at the gauge was: 1.448358
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.4483579999999998
+ Maximum speed at the gauge was: 0.7800262137768126
+ Maximum momentum at the gauge was: 4.183586680533821
+ Maximum momentum flux at the gauge was: 3.2626972167840993
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.3
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.3
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.8
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.4
+ 
+ Maximum value of zeta occurred at time (in minutes): 290.89599999999996
+ Maximum value of h occurred at time (in minutes): 290.89599999999996
+ Minimum value of zeta occurred at time (in minutes): 240.4535
+ Minimum value of h occurred at time (in minutes): 240.45516666666666
+ 
+Gauge no: 31 was in a gauge array
+(long,lat) = (-122.5172453,47.6205316)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -12.40404
+ Flow depth when the gauge was turned on: 12.40404
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -12.40404
+ Initial depth h0 at the gauge before quake was: 12.40404
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -12.40404
+ Final bathymetry, B[-1], at the gauge at end of job run was: -12.4040455
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 12.40404
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.4177739999999996
+ Maximum value of h, the flow depth, at the gauge was: 13.82182
+ Maximum value of dh, the change in water depth, at the gauge was: 1.4177739999999996
+ Minimum value of zeta at the gauge was: -1.3038419999999995
+ Minimum value of h, the water depth, at the gauge was: 11.1002
+ Maximum value of eta, height above MHW, at the gauge was: 1.417774
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.4177800000000005
+ Maximum speed at the gauge was: 0.6789342532478596
+ Maximum momentum at the gauge was: 8.757828168681149
+ Maximum momentum flux at the gauge was: 5.942471477246454
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.3
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.3
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.8
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.5
+ 
+ Maximum value of zeta occurred at time (in minutes): 290.9081666666667
+ Maximum value of h occurred at time (in minutes): 290.9
+ Minimum value of zeta occurred at time (in minutes): 240.61666666666667
+ Minimum value of h occurred at time (in minutes): 240.61266666666668
+ 
+Gauge no: 32 was in a gauge array
+(long,lat) = (-122.5198249,47.6170583)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -2.456796
+ Flow depth when the gauge was turned on: 2.456796
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -2.456796
+ Initial depth h0 at the gauge before quake was: 2.456796
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -2.456796
+ Final bathymetry, B[-1], at the gauge at end of job run was: -2.4567954
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 2.456796
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.445554
+ Maximum value of h, the flow depth, at the gauge was: 3.90235
+ Maximum value of dh, the change in water depth, at the gauge was: 1.445554
+ Minimum value of zeta at the gauge was: -1.29895
+ Minimum value of h, the water depth, at the gauge was: 1.157845
+ Maximum value of eta, height above MHW, at the gauge was: 1.445554
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.445554
+ Maximum speed at the gauge was: 0.8125345998230672
+ Maximum momentum at the gauge was: 2.7968900767562106
+ Maximum momentum flux at the gauge was: 2.2702607897246545
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.3
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.4
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.8
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.5
+ 
+ Maximum value of zeta occurred at time (in minutes): 290.88550000000004
+ Maximum value of h occurred at time (in minutes): 290.886
+ Minimum value of zeta occurred at time (in minutes): 240.16766666666666
+ Minimum value of h occurred at time (in minutes): 240.16766666666666
+ 
+Gauge no: 33 was in a gauge array
+(long,lat) = (-122.5228421,47.61776)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -2.36378
+ Flow depth when the gauge was turned on: 2.36378
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -2.36378
+ Initial depth h0 at the gauge before quake was: 2.36378
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -2.36378
+ Final bathymetry, B[-1], at the gauge at end of job run was: -2.3637791
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 2.36378
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.497086
+ Maximum value of h, the flow depth, at the gauge was: 3.860865
+ Maximum value of dh, the change in water depth, at the gauge was: 1.497086
+ Minimum value of zeta at the gauge was: -1.3027540000000002
+ Minimum value of h, the water depth, at the gauge was: 1.061026
+ Maximum value of eta, height above MHW, at the gauge was: 1.497086
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.4970849999999998
+ Maximum speed at the gauge was: 0.680191504121022
+ Maximum momentum at the gauge was: 1.8861473282713097
+ Maximum momentum flux at the gauge was: 1.0070093935369682
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.4
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.5
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.9
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.3
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.4
+ 
+ Maximum value of zeta occurred at time (in minutes): 290.77666666666664
+ Maximum value of h occurred at time (in minutes): 290.77616666666665
+ Minimum value of zeta occurred at time (in minutes): 240.51049999999998
+ Minimum value of h occurred at time (in minutes): 240.50750000000002
+ 
+Gauge no: 34 was in a gauge array
+(long,lat) = (-122.516201,47.6164393)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -2.500088
+ Flow depth when the gauge was turned on: 2.500088
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -2.500088
+ Initial depth h0 at the gauge before quake was: 2.500088
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -2.500088
+ Final bathymetry, B[-1], at the gauge at end of job run was: -2.5000886999999996
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 2.500088
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.401389
+ Maximum value of h, the flow depth, at the gauge was: 3.901477
+ Maximum value of dh, the change in water depth, at the gauge was: 1.401389
+ Minimum value of zeta at the gauge was: -1.300132
+ Minimum value of h, the water depth, at the gauge was: 1.199956
+ Maximum value of eta, height above MHW, at the gauge was: 1.401389
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.401389
+ Maximum speed at the gauge was: 0.3619297732448656
+ Maximum momentum at the gauge was: 1.217109592593703
+ Maximum momentum flux at the gauge was: 0.43760014759392174
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 141.3
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  54.2
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  92.8
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 143.2
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.5
+ 
+ Maximum value of zeta occurred at time (in minutes): 291.20016666666663
+ Maximum value of h occurred at time (in minutes): 291.19966666666664
+ Minimum value of zeta occurred at time (in minutes): 240.2945
+ Minimum value of h occurred at time (in minutes): 240.296
+ 
+Gauge no: 35 was in a gauge array
+(long,lat) = (-122.4930758,47.6222302)
+Subsidence/uplift at the gauge was:  -0.0 m
+ 
+ This gauge was turned on at following time in minutes: 0.0
+ 
+ Gauge Turn-On State: 
+ Bathymetry when the gauge was turned on: -1.715835
+ Flow depth when the gauge was turned on: 1.715835
+ Eta when the gauge was turned on: 0.0
+ 
+ Initialization State: 
+ Initial bathymetry at the gauge before quake was: -1.715835
+ Initial depth h0 at the gauge before quake was: 1.715835
+ Initial eta  eta0 at the gauge before quake was: 0.0
+ 
+ Co-Seismic State: 
+ Post co-seismic bathymetry, B_co, at the gauge right after quake was: -1.715835
+ Final bathymetry, B[-1], at the gauge at end of job run was: -1.7158345
+ These final bathys should be the same if the gauge is centered on the finest level
+ Post co-seismic depth, h_co, at the gauge right after quake was: 1.715835
+ Post co-seismic eta, eta_co, at the gauge right after quake was: 0.0
+ 
+ Tsunami Data: 
+ Maximum value of zeta at the gauge was: 1.027081
+ Maximum value of h, the flow depth, at the gauge was: 2.742916
+ Maximum value of dh, the change in water depth, at the gauge was: 1.027081
+ Minimum value of zeta at the gauge was: -1.244662
+ Minimum value of h, the water depth, at the gauge was: 0.4711723
+ Maximum value of eta, height above MHW, at the gauge was: 1.027081
+ Maximum value of eta postquake (hmax + B), height above MHW, at the gauge was: 1.0270810000000001
+ Maximum speed at the gauge was: 0.3498046569118858
+ Maximum momentum at the gauge was: 0.8581918399644978
+ Maximum momentum flux at the gauge was: 0.2758829707922032
+ 
+ Timing Thresholds (in meters): 
+ pos_amt and neg_amt were: 0.1016, 0.1016
+ draw_amt was: 0.3048
+ advis_amt was: 0.3048
+ warn_amt was: 0.9144
+ 
+ Time of first positive arrival ((h-h0)>pos_amt) tfirstPOS (in minutes): 138.2
+ Time of first negative arrival ((h0-h)>neg_amt) tfirstNEG (in minutes):  52.2
+ Time of first significant drawdown ((h0-h)>draw_amt) tfirstDRAW (in minutes):  91.0
+ Time of first advisory-level arrival ((h-h0)>advis_amt) tfirstADVIS (in minutes): 140.5
+ Time of first warning-level arrival ((h-h0)>warn_amt) tfirstWARN (in minutes): 147.2
+ 
+ Maximum value of zeta occurred at time (in minutes): 151.20316666666668
+ Maximum value of h occurred at time (in minutes): 151.20418333333333
+ Minimum value of zeta occurred at time (in minutes): 241.82999999999998
+ Minimum value of h occurred at time (in minutes): 241.83149999999998
+ 
+   MAXIMUM VALUES OVER ALL 155 GAUGES 
+ 
+ Maximum value of h (flow depth) over all gauges:    22.80 occurred at gauge:  10 
+ Maximum value of h (flow depth) over all offshore gauges (B0<=0):    22.80 occurred at gauge:  10 
+ Maximum value of dh (change in flow depth) over all gauges:     2.10 occurred at gauge:   1 
+ Maximum value of zeta, same as flow depth if onshore:     2.10 occurred at gauge:   1 
+ Maximum value of eta, height above MHW:     2.10 occurred at gauge:   1 
+ Maximum value of eta post quake, height above MHW:     2.10 occurred at gauge:   1 
+ Minimum value of h (water depth) over offshore gauges:     0.00 occurred at gauge:  13 
+ Maximum speed:     2.36  occurred at gauge:   4 
+ Maximum momentum:    23.76  occurred at gauge:   5 
+ Maximum momentum flux:    46.58  occurred at gauge:   5 
+ 
+               SUMMARY FOR EACH OF THESE GAUGES                
+Gauge    B0       B         dzi     max       min     max       max      max      max     max      max     tmax     tmin  tfirstPOS tfirstNEG tfirstDRAW tfirstADVIS tfirstWARN
+                                     h         h      zeta      dh       eta       s      hs       hss                                       
+                                                                      post-quake                                                             
+  1    -1.81    -1.81     -0.00     3.91     0.27     2.10     2.10     2.10     0.59     1.04     0.35   292.44   372.14   143.2     0.2       93.9      144.5      147.5
+  2    -3.14    -3.14     -0.00     5.11     1.75     1.97     1.97     1.97     0.87     3.27     2.83   293.27   369.50   143.0    55.9       93.7      144.5      147.6
+  3    -4.52    -4.52     -0.00     6.38     3.19     1.86     1.86     1.86     1.18     6.32     7.40   292.49   248.58   142.8    55.6       93.4      144.4      147.7
+  4    -4.63    -4.63     -0.00     6.23     3.33     1.60     1.60     1.60     2.36    11.01    25.91   292.29   241.49   142.2    54.9       93.0      144.1      147.8
+  5   -12.13   -12.13     -0.00    13.56    10.81     1.44     1.44     1.44     1.96    23.76    46.58   290.86   240.60   141.4    54.4       92.8      143.2      147.5
+  6   -14.29   -14.29     -0.00    15.65    13.00     1.35     1.35     1.35     0.44     6.61     2.88   291.33   241.34   141.2    54.2       92.7      143.2      147.6
+  7   -14.82   -14.82     -0.00    16.10    13.52     1.29     1.29     1.29     0.42     6.37     2.59   291.54   241.55   141.1    54.0       92.7      143.1      147.8
+  8   -17.51   -17.51     -0.00    18.75    16.22     1.24     1.24     1.24     0.47     8.70     4.13   290.20   242.69   141.0    54.0       92.6      143.1      148.0
+  9   -20.63   -20.63     -0.00    21.83    19.34     1.20     1.20     1.20     0.69    14.76    10.13   290.01   242.82   141.0    53.8       92.5      143.1      148.2
+ 10   -21.67   -21.67     -0.00    22.80    20.39     1.14     1.14     1.14     0.97    21.71    20.96   289.73   242.78   141.0    53.7       92.4      143.2      148.6
+ 11    -3.13    -3.13     -0.00     4.32     1.83     1.19     1.19     1.19     1.78     7.58    13.52   292.48   242.87   142.1    53.9       92.5      144.3      148.3
+ 12    -1.47    -1.47     -0.00     2.64     0.19     1.17     1.17     1.17     1.14     2.82     3.22   289.89   243.08   141.0    53.6       92.4      143.2      148.4
+ 13    -0.40    -0.40     -0.00     1.66     0.00     1.26     1.26     1.26     0.22     0.26     0.05   291.17   256.73   141.0    53.9       92.6      143.0      147.9
+ 14    -6.31    -6.31     -0.00     7.60     5.01     1.29     1.29     1.29     0.41     2.91     1.18   291.17   241.73   141.1    54.1       92.7      143.1      147.8
+ 15    -1.61    -1.61     -0.00     2.91     0.31     1.30     1.30     1.30     0.56     1.42     0.79   291.23   241.79   141.1    54.1       92.6      143.2      147.8
+ 16    -2.06    -2.06     -0.00     3.36     0.76     1.30     1.30     1.30     0.53     1.48     0.78   291.21   241.72   141.2    54.1       92.7      143.2      147.8
+ 17    -1.49    -1.49     -0.00     2.86     0.40     1.36     1.36     1.36     1.08     2.82     3.04   290.70   241.29   141.3    54.2       92.7      143.3      147.7
+ 18    -1.33    -1.33     -0.00     2.77     0.08     1.45     1.45     1.45     0.62     1.12     0.65   291.32   240.85   141.3    54.2       92.9      143.2      147.5
+ 19    -2.25    -2.25     -0.00     3.68     0.95     1.43     1.43     1.43     0.31     0.88     0.27   290.78   240.58   141.3    54.2       92.9      143.2      147.5
+ 20    -1.69    -1.69     -0.00     3.12     0.39     1.43     1.43     1.43     0.55     1.43     0.79   290.96   240.29   141.3    54.3       92.8      143.2      147.5
+ 21    -7.36    -7.36     -0.00     8.82     6.05     1.46     1.46     1.46     0.96     6.99     6.71   290.75   240.59   141.4    54.4       92.9      143.2      147.4
+ 22    -2.02    -2.02     -0.00     3.49     0.71     1.47     1.47     1.47     0.43     1.14     0.41   290.72   240.57   141.4    54.4       92.9      143.2      147.4
+ 23    -1.80    -1.80     -0.00     3.28     0.49     1.48     1.48     1.48     1.06     2.57     2.74   292.32   240.55   141.5    54.5       92.9      143.4      147.5
+ 24    -4.52    -4.52     -0.00     5.86     3.22     1.34     1.34     1.34     0.35     1.87     0.64   291.28   241.58   141.2    54.2       92.7      143.2      147.7
+ 25    -2.04    -2.04     -0.00     3.38     0.74     1.34     1.34     1.34     0.11     0.33     0.04   291.32   241.95   141.2    54.1       92.7      143.1      147.6
+ 26    -6.89    -6.89     -0.00     8.25     5.59     1.36     1.36     1.36     0.41     2.73     1.12   291.16   240.94   141.2    54.2       92.8      143.2      147.6
+ 27    -6.39    -6.39     -0.00     7.75     5.10     1.35     1.35     1.35     0.44     2.77     1.17   291.22   241.54   141.2    54.2       92.7      143.2      147.6
+ 28    -2.12    -2.12     -0.00     3.49     0.83     1.37     1.37     1.37     0.40     1.26     0.50   291.24   240.99   141.2    54.2       92.8      143.2      147.6
+ 29    -5.86    -5.86     -0.00     7.24     4.57     1.37     1.37     1.37     0.52     2.98     1.54   291.07   240.68   141.2    54.2       92.8      143.2      147.6
+ 30    -4.93    -4.93     -0.00     6.37     3.62     1.45     1.45     1.45     0.78     4.18     3.26   290.90   240.46   141.3    54.3       92.8      143.2      147.4
+ 31   -12.40   -12.40     -0.00    13.82    11.10     1.42     1.42     1.42     0.68     8.76     5.94   290.90   240.61   141.3    54.3       92.8      143.2      147.5
+ 32    -2.46    -2.46     -0.00     3.90     1.16     1.45     1.45     1.45     0.81     2.80     2.27   290.89   240.17   141.3    54.4       92.8      143.2      147.5
+ 33    -2.36    -2.36     -0.00     3.86     1.06     1.50     1.50     1.50     0.68     1.89     1.01   290.78   240.51   141.4    54.5       92.9      143.3      147.4
+ 34    -2.50    -2.50     -0.00     3.90     1.20     1.40     1.40     1.40     0.36     1.22     0.44   291.20   240.30   141.3    54.2       92.8      143.2      147.5
+ 35    -1.72    -1.72     -0.00     2.74     0.47     1.03     1.03     1.03     0.35     0.86     0.28   151.20   241.83   138.2    52.2       91.0      140.5      147.2
